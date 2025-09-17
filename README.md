@@ -1,5 +1,5 @@
 ## 👋 About Me  
-Hi! I'm **Luca**, currently pursuing a dual Master’s degree in **High-Performance Computing Engineering** at **Politecnico di Milano** and **Computational Science** at **USI Università della Svizzera italiana**. Passionate about **parallel computing and quantum computing**, I am dedicated to solving complex computational challenges.
+Hi! I'm **Luca**, currently pursuing a dual Master’s degree in **High-Performance Computing Engineering** at **Politecnico di Milano** and **Computational Science** at **USI Università della Svizzera italiana**. Passionate about scientific computing, particularly in bioinformatics, computational biology, and related applications.
 
 📍 **Location:** Como, Italy  
 
