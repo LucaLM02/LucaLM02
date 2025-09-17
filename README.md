@@ -21,10 +21,6 @@ This repository serves as my **digital portfolio**, containing my CV, key projec
   *Neural network-based classification of heart sound signals.*  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- **Solver for Fisher-Kolmogorov Equation**  
-  *Solving PDEs for neurodegenerative disease modeling.*  
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-FF6600?style=for-the-badge)
-
 - **Lattice Boltzmann Method Simulation**  
   *Benchmark for computational fluid dynamics simulation for lid-driven cavity flow.*  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-FF6600?style=for-the-badge) ![OpenMP](https://img.shields.io/badge/OpenMP-0095D5?style=for-the-badge&logo=openmp&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -42,6 +38,10 @@ This repository serves as my **digital portfolio**, containing my CV, key projec
 - **[EuroHPC Student Challenge 2025](https://github.com/Rudolfovoorg/EuroHPC_Student_Challenge_2025_Team_2.git)**  
   *Participated in EUmaster4HPC challenge at EuroHPC Summit 2025, Kraków.*  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-FF6600?style=for-the-badge) ![OpenMP](https://img.shields.io/badge/OpenMP-0095D5?style=for-the-badge&logo=openmp&logoColor=white)
+
+- **[Solver for Fisher-Kolmogorov Equation](https://github.com/albtad01/FK-Equation_NeuroDisease)**  
+  *Solving PDEs for neurodegenerative disease modeling.*  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-FF6600?style=for-the-badge)
 
 ---
 
