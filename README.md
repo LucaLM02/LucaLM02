@@ -31,15 +31,15 @@ This repository serves as my **digital portfolio**, containing my CV, key projec
 
 ### 🤝 Collaborative Projects
 
-- **[Codex Naturalis](https://github.com/Diego41ITA/ing-sw-2024-quattrone-galatea-lamperti-lodetti)**  
+- **[Codex Naturalis](https://github.com/LucaLM02/ing-sw-2024-quattrone-galatea-lamperti-lodetti)**  
   *Helped with the development of a distributed version of the game Codex Naturalis.*  
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-- **[EuroHPC Student Challenge 2025](https://github.com/Rudolfovoorg/EuroHPC_Student_Challenge_2025_Team_2.git)**  
+- **[EuroHPC Student Challenge 2025](https://github.com/LucaLM02/EuroHPC_Student_Challenge_2025_Team_2.git)**  
   *Participated in EUmaster4HPC challenge at EuroHPC Summit 2025, Kraków.*  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-FF6600?style=for-the-badge) ![OpenMP](https://img.shields.io/badge/OpenMP-0095D5?style=for-the-badge&logo=openmp&logoColor=white)
 
-- **[Solver for Fisher-Kolmogorov Equation](https://github.com/albtad01/FK-Equation_NeuroDisease)**  
+- **[Solver for Fisher-Kolmogorov Equation](https://github.com/LucaLM02/FK-Equation_NeuroDisease)**  
   *Solving PDEs for neurodegenerative disease modeling.*  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-FF6600?style=for-the-badge)
 
