@@ -23,7 +23,9 @@ This repository serves as my **digital portfolio**, containing my CV, key projec
 
 ### 🏆 Personal Projects
 
-🚧 *I'm actively working on these projects! More details will be available soon.* 🚀  
+- **[ANN for Heart Sounds Classification](https://github.com/LucaLM02/CNN-for-Heart-Sounds-Classification.git)**  
+  *Neural network-based classification of heart sound signals.*  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🤝 Collaborative Projects
 
@@ -34,10 +36,6 @@ This repository serves as my **digital portfolio**, containing my CV, key projec
 - **[EuroHPC Student Challenge 2025](https://github.com/LucaLM02/EuroHPC_Student_Challenge_2025_Team_2.git)**  
   *Participated in EUmaster4HPC challenge at EuroHPC Summit 2025, Kraków.*  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-FF6600?style=for-the-badge) ![OpenMP](https://img.shields.io/badge/OpenMP-0095D5?style=for-the-badge&logo=openmp&logoColor=white)
-
-- **[ANN for Heart Sounds Classification](https://github.com/LucaLM02/CNN-for-Heart-Sounds-Classification.git)**  
-  *Neural network-based classification of heart sound signals.*  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - **[Solver for Fisher-Kolmogorov Equation](https://github.com/LucaLM02/FK-Equation_NeuroDisease)**  
   *Solving PDEs for neurodegenerative disease modeling.*  
