@@ -9,7 +9,7 @@ Hi! I'm **Luca**, currently pursuing a dual Master’s degree in **High-Performa
 This repository serves as my **digital portfolio**, containing my CV, key projects, and research work.
 
 ## 📄 **My CV**
-[![👞 Download My CV](https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./CV/CV.pdf) *(Updated: 2025)*  
+[![👞 Download My CV](https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./CV/CV_2025.pdf) *(Updated: 2025)*  
 
 ---
 
