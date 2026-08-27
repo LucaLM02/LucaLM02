@@ -17,6 +17,10 @@ This repository serves as my **digital portfolio**, containing my CV, key projec
 
 ### 🔥 Currently Working On
 
+- **Master's Thesis: Monte Carlo Simulator for Photon Transport**  
+  *Developing a high-performance simulator to approximate the Radiative Transfer Equation (RTE) for photon transport in cardiac tissue using Monte Carlo methods.*  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
 ### 🏆 Personal Projects
 
 - **[ANN for Heart Sounds Classification](https://github.com/LucaLM02/CNN-for-Heart-Sounds-Classification.git)**  
@@ -36,6 +40,17 @@ This repository serves as my **digital portfolio**, containing my CV, key projec
 - **[Solver for Fisher-Kolmogorov Equation](https://github.com/LucaLM02/FK-Equation_NeuroDisease)**  
   *Solving PDEs for neurodegenerative disease modeling.*  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-FF6600?style=for-the-badge)
+
+### 🔒 Private Academic & Research Projects
+> **Note for Recruiters:** The following repositories contain sensitive research data and are currently private. However, **read access for code review during technical interviews can be granted upon request** (authorized by the supervising professor).
+
+- **GeoMechLab**  
+  *Developed an inverse problem solver and a forward model emulator for 2D linear elasticity to identify subsurface anomalies and propagate spatial uncertainty.*  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- **SubstrateFinder**  
+  *Designed algorithms to reconstruct electrophysiological substrates of atrial fibrillation from sparse signals, identifying focal activity and slow conduction sites.*  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
