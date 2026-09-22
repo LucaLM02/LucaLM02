@@ -21,27 +21,30 @@ This repository serves as my **digital portfolio**, containing my CV, key projec
   *Developing a high-performance simulator to approximate the Radiative Transfer Equation (RTE) for photon transport in cardiac tissue using Monte Carlo methods.*  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-### 🏆 Personal Projects
+### 🏆 Award-Winning & Collaborative Projects
 
-- **[ANN for Heart Sounds Classification](https://github.com/LucaLM02/CNN-for-Heart-Sounds-Classification.git)**  
-  *Neural network-based classification of heart sound signals.*  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🤝 Collaborative Projects
-
-- **[Codex Naturalis](https://github.com/LucaLM02/ing-sw-2024-quattrone-galatea-lamperti-lodetti)**  
-  *Helped with the development of a distributed version of the game Codex Naturalis.*  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- **[Benchmarking AI Factories](https://github.com/LucaLM02/Benchmarking-AI-Factories)**  
+  *Project that won the opportunity to speak at the EuroHPC Summit 2026 in Cyprus. Focuses on the evaluation and profiling of AI supercomputing infrastructures.*  
+  ![HPC](https://img.shields.io/badge/HPC-00599C?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - **[EuroHPC Student Challenge 2025](https://github.com/LucaLM02/EuroHPC_Student_Challenge_2025_Team_2.git)**  
   *Participated in EUmaster4HPC challenge at EuroHPC Summit 2025, Kraków.*  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-FF6600?style=for-the-badge) ![OpenMP](https://img.shields.io/badge/OpenMP-0095D5?style=for-the-badge&logo=openmp&logoColor=white)
 
+- **[Codex Naturalis](https://github.com/LucaLM02/ing-sw-2024-quattrone-galatea-lamperti-lodetti)**  
+  *Helped with the development of a distributed version of the game Codex Naturalis.*  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 - **[Solver for Fisher-Kolmogorov Equation](https://github.com/LucaLM02/FK-Equation_NeuroDisease)**  
   *Solving PDEs for neurodegenerative disease modeling.*  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-FF6600?style=for-the-badge)
 
-### 🔒 Private Academic & Research Projects
+### 🔬 Personal & Research Projects
+
+- **[ANN for Heart Sounds Classification](https://github.com/LucaLM02/CNN-for-Heart-Sounds-Classification.git)**  
+  *Neural network-based classification of heart sound signals.*  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 > **Note for Recruiters:** The following repositories contain sensitive research data and are currently private. However, **read access for code review during technical interviews can be granted upon request** (authorized by the supervising professor).
 
 - **GeoMechLab**  
