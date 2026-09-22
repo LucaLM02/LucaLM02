@@ -21,7 +21,7 @@ This repository serves as my **digital portfolio**, containing my CV, key projec
   *Developing a high-performance simulator to approximate the Radiative Transfer Equation (RTE) for photon transport in cardiac tissue using Monte Carlo methods.*  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-### 🏆 Award-Winning & Collaborative Projects
+### 🏆 Collaborative Projects
 
 - **[Benchmarking AI Factories](https://github.com/LucaLM02/Benchmarking-AI-Factories)**  
   *Project that won the opportunity to speak at the EuroHPC Summit 2026 in Cyprus. Focuses on the evaluation and profiling of AI supercomputing infrastructures.*  
@@ -30,6 +30,10 @@ This repository serves as my **digital portfolio**, containing my CV, key projec
 - **[EuroHPC Student Challenge 2025](https://github.com/LucaLM02/EuroHPC_Student_Challenge_2025_Team_2.git)**  
   *Participated in EUmaster4HPC challenge at EuroHPC Summit 2025, Kraków.*  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-FF6600?style=for-the-badge) ![OpenMP](https://img.shields.io/badge/OpenMP-0095D5?style=for-the-badge&logo=openmp&logoColor=white)
+
+- **[Optimized Paxos Algorithm](https://github.com/LucaLM02/DA-Project-Paxos-implementation)**  
+  *University project implementing a distributed consensus algorithm (Paxos) with performance optimizations for state machine replication.*  
+  ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-8A2BE2?style=for-the-badge)
 
 - **[Codex Naturalis](https://github.com/LucaLM02/ing-sw-2024-quattrone-galatea-lamperti-lodetti)**  
   *Helped with the development of a distributed version of the game Codex Naturalis.*  
